@@ -1,0 +1,2 @@
+C:\Users\Harald\Desktop\Updated tutorials\june 2021\data\uniprot-human-reviewed-trypsin-june-2021_concatenated_target_decoy.fasta
+C:\Users\Harald\Desktop\Updated tutorials\june 2021\data\qExactive01819.mgf
